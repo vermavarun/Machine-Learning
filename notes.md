@@ -26,6 +26,7 @@
   - Normalization (0 to 1)
 ## Regression
  - To predict the real value like salary
+ - [GeeksForGeeks Article](https://www.geeksforgeeks.org/types-of-regression-techniques/)
 ### Simple Linear Regression
 ### Multiple Linear Regression
 - No need to apply feature scaling in multiple linear regression
@@ -39,3 +40,14 @@
 ### Support Vector for Regression (SVR)
 ### Decision Tree Regression
 ### Random Forest Regression
+
+## SVR - Support Vector Regression
+- A tube instead of a linear line
+
+
+# Questions?
+- When to use SVR?
+- What is feature scaling? When to use it?
+  - Linear reg should not use feature scaling
+  - Implicit equation and implicit relation between dep variable y. we should apply feature scaling
+  - When to use decision tree regression vs Linear regression?
