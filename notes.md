@@ -44,6 +44,26 @@
 ## SVR - Support Vector Regression
 - A tube instead of a linear line
 
+## Logistic Regression
+- Used to calculate Category like yes or no
+- To get best curve calculate curve with best likelihood value.
+
+## K-Nearest Neighbor
+- Calculate the distance of neighbor's upto k for ex 5 and put the new point in that category where max points are there.
+
+## SVM
+- Lines between extreme one type of point or classification like apples (Negative hyperplane) and first another type of point like oranges (positive hyperplane) points.
+- Used to classify apples or oranges.
+
+
+# General Steps
+- Import Libraries
+- Split dataset into training and testing set
+- Feature scaling
+- Training
+- Predicting single result
+- Predicting test results
+
 
 # Questions?
 - When to use SVR?
@@ -51,3 +71,4 @@
   - Linear reg should not use feature scaling
   - Implicit equation and implicit relation between dep variable y. we should apply feature scaling
   - When to use decision tree regression vs Linear regression?
+- What is confusion matrix?
