@@ -72,3 +72,4 @@
   - Implicit equation and implicit relation between dep variable y. we should apply feature scaling
   - When to use decision tree regression vs Linear regression?
 - What is confusion matrix?
+- What is Naive Based?
