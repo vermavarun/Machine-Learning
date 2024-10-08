@@ -62,6 +62,11 @@
   - random forest
   - gradient boosting
 
+## Random forest classification
+- ensemble learning : multiple algo to create one algo
+- 
+
+
 # General Steps
 - Import Libraries
 - Split dataset into training and testing set
