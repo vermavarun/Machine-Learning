@@ -55,6 +55,12 @@
 - Lines between extreme one type of point or classification like apples (Negative hyperplane) and first another type of point like oranges (positive hyperplane) points.
 - Used to classify apples or oranges.
 
+## Decision tree classification
+- Yes/No ladder
+- Old method
+- reborn with upgrades
+  - random forest
+  - gradient boosting
 
 # General Steps
 - Import Libraries
