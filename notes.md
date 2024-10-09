@@ -44,6 +44,8 @@
 ## SVR - Support Vector Regression
 - A tube instead of a linear line
 
+## Classification
+
 ## Logistic Regression
 - Used to calculate Category like yes or no
 - To get best curve calculate curve with best likelihood value.
@@ -66,6 +68,10 @@
 - ensemble learning : multiple algo to create one algo
 -
 
+
+## Clustering
+
+### K Means Clustering 
 
 # General Steps
 - Import Libraries
