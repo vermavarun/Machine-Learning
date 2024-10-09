@@ -64,7 +64,7 @@
 
 ## Random forest classification
 - ensemble learning : multiple algo to create one algo
-- 
+-
 
 
 # General Steps
@@ -84,3 +84,4 @@
   - When to use decision tree regression vs Linear regression?
 - What is confusion matrix?
 - What is Naive Based?
+- Accuracy paradox vs cumulative accuracy paradox vs Receiver Operating Characteristic?
