@@ -86,6 +86,9 @@
   - Divisive
 - Dendrograms - to get optimal number of clusters
 
+### Association Rule Learning
+- Customers who bought also bought
+
 <hr/>
 
 # General Steps
