@@ -88,6 +88,9 @@
 
 ### Association Rule Learning
 - Customers who bought also bought
+- Two models
+  - Apriori
+  - Eclat
 
 <hr/>
 
