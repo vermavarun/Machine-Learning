@@ -68,10 +68,25 @@
 - ensemble learning : multiple algo to create one algo
 -
 
+<hr/>
 
 ## Clustering
 
-### K Means Clustering 
+### K-Means Clustering
+- Not limited to 2 dimensions. Can be scaled to many dimensions.
+- Calculate center of mass to come to conclusion for getting centroids
+- The elbow method : To find how many clusters are available.
+- K-Means++ to get consistent results.
+- We create dependent variable
+
+### Hierarchial Clustering
+- Same as K means but with different process
+- Two types
+  - Agglomerative
+  - Divisive
+- Dendrograms - to get optimal number of clusters
+
+<hr/>
 
 # General Steps
 - Import Libraries
@@ -91,3 +106,4 @@
 - What is confusion matrix?
 - What is Naive Based?
 - Accuracy paradox vs cumulative accuracy paradox vs Receiver Operating Characteristic?
+- Supervised vs Unsupervised trainings.
