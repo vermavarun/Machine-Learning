@@ -89,8 +89,8 @@
 ### Association Rule Learning
 - Customers who bought also bought
 - Two models
-  - Apriori
-  - Eclat
+  - Apriori: SCL: Support confidence lift
+  - Eclat: ARL
 
 <hr/>
 
