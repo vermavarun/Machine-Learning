@@ -92,6 +92,13 @@
   - Apriori: SCL: Support confidence lift
   - Eclat: ARL
 
+### Reinforcement Learning
+- Multi-Armed Bandit Problem
+  - Upper confidence bound (UCB):
+    - Is deterministic
+  - Thompson Sampling:
+    - is probabilistic
+
 <hr/>
 
 # General Steps
