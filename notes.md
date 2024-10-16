@@ -101,6 +101,16 @@
 
 <hr/>
 
+### Natural Language Processing (NLP)
+- Types (Some of them)
+  - Nlp
+  - Deep Learning
+  - Deep NLP
+  - Seq2Seq
+- Bag of words model
+  - Creating an array of words
+
+
 # General Steps
 - Import Libraries
 - Split dataset into training and testing set
