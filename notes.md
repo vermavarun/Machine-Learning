@@ -1,13 +1,13 @@
 # Machine Learning
 ## Data Preprocessing includes:
-    -   Importing the lib
-    -   Importing the dataset
-    -   take care of missing data
-    -   Encode categorical data
-        -   Encode independent variables
-        -   Encode dependent variables
-    -   Split train and test data
-    -   feature scaling
+  -   Importing the lib
+  -   Importing the dataset
+  -   take care of missing data
+  -   Encode categorical data
+      -   Encode independent variables
+      -   Encode dependent variables
+  -   Split train and test data
+  -   feature scaling
 ### How to deal with missing data?
 - Delete the row and ignore
 - Replace the missing values with average of all the salaries.
@@ -66,7 +66,6 @@
 
 ## Random forest classification
 - ensemble learning : multiple algo to create one algo
--
 
 <hr/>
 
@@ -110,6 +109,16 @@
 - Bag of words model
   - Creating an array of words
 
+<hr/>
+
+## Deep Learning
+
+### Artificial Neural Networks
+
+### Convolutional Neural Networks
+
+
+<hr/>
 
 # General Steps
 - Import Libraries
