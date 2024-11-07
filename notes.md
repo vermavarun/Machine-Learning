@@ -115,8 +115,14 @@
 
 ### Artificial Neural Networks
 
-### Convolutional Neural Networks
+## Gradient Descent
+### Stochastic Gradient Descent
+### Backpropagation
 
+### Convolutional Neural Networks
+- Image recognition
+- Convolutional layer
+- used to detect emotions
 
 <hr/>
 
