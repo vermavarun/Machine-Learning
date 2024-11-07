@@ -123,6 +123,7 @@
 - Image recognition
 - Convolutional layer
 - used to detect emotions
+- https://adamharley.com/nn_vis/cnn/2d.html
 
 <hr/>
 
