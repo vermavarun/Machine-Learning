@@ -115,7 +115,7 @@
 
 ### Artificial Neural Networks
 
-## Gradient Descent
+### Gradient Descent
 ### Stochastic Gradient Descent
 ### Backpropagation
 
@@ -124,6 +124,12 @@
 - Convolutional layer
 - used to detect emotions
 - https://adamharley.com/nn_vis/cnn/2d.html
+
+## Dimensionality Reduction
+- PCA
+- LDA
+- Kernel PCA
+
 
 <hr/>
 
