@@ -130,6 +130,11 @@
 - LDA
 - Kernel PCA
 
+### Model Selection
+- K-Fold Cross Validation
+- Grid Search
+- XGBoost
+
 
 <hr/>
 
